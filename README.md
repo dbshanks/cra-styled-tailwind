@@ -1,3 +1,9 @@
+To install using the preconfigured Styled Components and TailwindCSS template. Use the following command with NPX.
+
+```
+npx create-react-app my-new-app --template styled-tailwind
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

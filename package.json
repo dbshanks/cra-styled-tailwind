@@ -20,7 +20,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dbshanks/cra-template-styled-tailwind"
+    "url": "git+https://github.com/dbshanks/cra-styled-tailwind"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
